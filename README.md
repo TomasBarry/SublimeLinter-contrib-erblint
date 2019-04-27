@@ -16,7 +16,7 @@ Before installing this plugin, you must ensure that `erblint` is installed on yo
 
 1. Install `erblint` by typing the following in a terminal:
    ```
-   [sudo] gem install erblint
+   [sudo] gem install erb_lint
    ```
 
 1. If you are using `rvm` or `rbenv`, ensure that they are loaded in your shell’s correct startup file. See [here](http://sublimelinter.com/en/latest/troubleshooting.html#adjusting-shell-startup-files) for more information.
