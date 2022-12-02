@@ -36,5 +36,5 @@ class ERBLint(Linter):
     tempfile_suffix = 'erb'
     error_stream = util.STREAM_STDOUT
     defaults = {
-        'selector': 'text.html.ruby'
+        'selector': 'text.html.ruby, text.html.rails'
     }
